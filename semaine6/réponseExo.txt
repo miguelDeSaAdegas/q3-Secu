@@ -1,0 +1,17 @@
+Semaine 6
+	Question 1:
+		quelqu'un a ping tous les appareils, on ne sait qui ni qu'est ce qu'il voulait faire.
+	Question 2:
+		pareil que le 1, mais il envoie des demandes de réponse aux différents ports plutôt que jutse ping
+	Question 3:
+		1: ICMP
+		2: des données
+		3: pour échanger des données sans que cela se voi, de l'exterieur, ce sont juste des pings, mais en vérité,
+		   il y a des donnés dans le spings
+	Question 4:
+		je vois des échanges entre des clients et des servers, ils s'agits de mails
+	Question 5:
+		on peut observer le contenu d'un mail avec un lien suspect qui renvoie vers un executable
+	Question 6:
+		on peut voir que la personne a cliquer sur le lien, ce qui a télécharger le fichier video.exe, qui a crée un shell powershell probablement qui a été donné a la
+		machine malveyante. le pc de l'utilisateurs est maintenant disponible pour le hackeurs
